@@ -6,7 +6,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>커뮤니티 사이트22</title>
+	<title>커뮤니티 사이트33</title>
 	<link rel="stylesheet" href="style.css" type="text/css">
 	<script type="text/javascript">
 		function view(idx){
