@@ -1,0 +1,25 @@
+body {margin: 0px}
+header {
+	padding: 5px 10px;
+	background: #cccccc;
+	text-align: center;
+}
+section {
+	padding: 5px 10px;
+	background: #8a8be7;
+	min-height: 600px;
+}
+section table {
+	margin: auto;
+	width: 90%;
+}
+section th, td {
+	text-align: center;
+}
+.subject {
+	text-align: left;
+}
+footer {
+	padding: 5px 10px;
+	background: #6190db;
+}
